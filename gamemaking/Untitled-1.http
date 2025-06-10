@@ -1,0 +1,7 @@
+POST http://127.0.0.1/api/postscore
+Content-Type: application/json
+
+{
+
+  "time": 35
+}
